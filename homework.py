@@ -11,12 +11,11 @@ n = number of times the interest is compounded per year
 t = number of years
 A = final mount
 
-\
-
 
 @author: ruyonga
 """
 from sys import exit
+
 
 p = input("How much do you want to invest?\n")
 if p.isdigit():
